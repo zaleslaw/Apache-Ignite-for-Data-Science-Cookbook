@@ -8,8 +8,8 @@
   * [0.5. Ignite like the database](05-ignite-like-the-database.md)
 * [1. Machine Learning Intro](chapter1.md)
   * [1.1. Unsupervised Learning](chapter1/11-unsupervised-learning.md)
-  * 1.2. Supervised Learning
-  * 1.3. Feature Engineering
+  * [1.2. Supervised Learning](chapter1/12-supervised-learning.md)
+  * [1.3. Feature Engineering](chapter1/13-feature-engineering.md)
 * [2. Preprocessing](chapter2.md)
 * [3. Data Analysis](/chapter3.md)
   * [3.1. Missing value treatment](chapter3/31-missing-value-treatment.md)
@@ -19,7 +19,12 @@
   * [4.3. With Decision Tree](chapter4/43-with-decision-tree.md)
   * [4.4. With Neural Network](chapter4/44-with-neural-network.md)
   * [4.5. With Logisitc Regression](chapter4/45-with-logisitc-regression.md)
-* [5. Win Titanic Kaggle Competition](/chapter5.md "5. Win Titanic Kaggle Competition")
-
-
+* [5. Win Titanic Kaggle Competition](/chapter5.md)
+* [6. Partitioned Datasets.md](/chapter6.md)
+* [7. Model Evaluation](/chapter7.md)
+* [8. Model Composition](/chapter8.md)
+* [9. TensorFlow integration](/chapter9.md)
+* [10. Spark vs Ignite](/chapter10.md)
+  * [10.1. Feature Battle](chapter10/101-feature-battle.md)
+  * [10.2. Performance Battle](chapter10/102-performance-battle.md)
 
