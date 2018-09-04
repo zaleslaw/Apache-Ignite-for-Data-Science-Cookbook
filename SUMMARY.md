@@ -9,5 +9,17 @@
 * [1. Machine Learning Intro](chapter1.md)
 * [2. Preprocessing](chapter2.md)
 
+\* \[Part I\]\(part1/README.md\)
+
+    \* \[Writing is nice\]\(part1/writing.md\)
+
+    \* \[GitBook is nice\]\(part1/gitbook.md\)
+
+\* \[Part II\]\(part2/README.md\)
+
+    \* \[We love feedback\]\(part2/feedback\_please.md\)
+
+    \* \[Better tools for authors\]\(part2/better\_tools.md\)
+
 
 
