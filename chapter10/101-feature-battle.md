@@ -1,5 +1,3 @@
-
-
 | Stage of ML preprocessing or       type of model | Algorithm /         trainer | Ignite ML 2.5-2.6 | Ignite ML 2.7 | Spark ML 2.3 | Analogue in       Spark |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Feature Extracting | TF-IDF | no | no | yes | related to NLP |
