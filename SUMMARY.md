@@ -20,7 +20,7 @@
   * [4.4. With Neural Network](chapter4/44-with-neural-network.md)
   * [4.5. With Logisitc Regression](chapter4/45-with-logisitc-regression.md)
 * [5. Win Titanic Kaggle Competition](/chapter5.md)
-* [6. Partitioned Datasets.md](/chapter6.md)
+* [6. Partitioned Datasets](/chapter6.md)
 * [7. Model Evaluation](/chapter7.md)
 * [8. Model Composition](/chapter8.md)
 * [9. TensorFlow integration](/chapter9.md)
